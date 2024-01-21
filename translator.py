@@ -5,8 +5,6 @@ from selenium.webdriver.firefox.options import Options
 import time
 from languages import supported_languages
 
-
-
 def help_handle():
     print('Sending help message\n')
     return '```!Google Translate-bot Help Message\n\nMESSAGE FORMAT:\n?language-to-translate-to message-to-translate\n\nEXAMPLE:\n?spanish good morning everyone\n\nNOTE:\nFor language support type "?langs"```'
