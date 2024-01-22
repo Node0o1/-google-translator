@@ -1,6 +1,6 @@
 # not-google-translator
 Language translation 
-##### *Type: Discord-bot*
+##### *Type: Discord-Bot*
 
 ### Description:
 >Source code for a Discord language translator-bot using a custom api comprised of Google's public language translation tool, discord.py, and selenium web driver using the firefox browser. This bot enables people of different ethnicities/regions the ability to communicate effectively at no cost without sharing a common language within the Discord platform.
