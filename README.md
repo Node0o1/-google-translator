@@ -3,3 +3,5 @@ Source code for a Discord language translator-bot using a custom api comprised o
 
 >NOTES: It's a little slow as it needs to allow the translation to happen via browser before returning the results
 >and sending the results back to the calling Discord server. The alternative would be to pay for access to Google's cloud translation api.
+>
+>This is not meant to be downloaded form git as an application in whole, but rather to make the source code public. Token not included. To run this bot as your own, you need to install selenium and gecko driver, Gecko driver needs to be added to path, and you will need to create a bot with your account to recieve a valid token. That token will need to be saved within a .env file as `TOKEN=YOUR_TOKEN`.
