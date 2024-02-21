@@ -13,7 +13,8 @@ Language translation
 >
 >*NEVER SHARE YOUR LOGIN TOKENS WITH ANYONE!*
 
-## **Images**
+
+## **Images:**
 - ?help
 <p align="center">
   <img width="497" alt="help command" src="https://github.com/Node0o1/not-google-translator/assets/157242958/a097fd84-54b5-41f0-a599-5ca57533b2cf">
